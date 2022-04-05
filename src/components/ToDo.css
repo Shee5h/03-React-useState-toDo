@@ -1,0 +1,10 @@
+
+.imageSize{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.displayConf{
+    display: inline-block;
+    margin: 0px 5px;
+}
